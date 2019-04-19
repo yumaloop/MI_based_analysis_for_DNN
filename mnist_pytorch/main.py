@@ -1,4 +1,5 @@
-ST sample
+'''
+Pytorch MNIST sample
 '''
 
 import argparse
